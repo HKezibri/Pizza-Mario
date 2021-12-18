@@ -6,7 +6,7 @@ Implémentation du Pizzas mario avec TypeScript.
 ## Sujet
 
 Conception et implémentation d'un logiciel fictif de "Pizzas Mario".
-ce travail est réalisé par: Kezibri Hiba & Hayrapetyan Vladimir.
+Ce travail est réalisé par: Kezibri Hiba & Hayrapetyan Vladimir.
 Inspiré par 'Vending Machine' du Prof.Alexandre Leroux.
 
 ## Acteurs et interactions Homme / Machine
