@@ -1,6 +1,6 @@
 # Pizza Mario -The Pizza Machine-
 
-Rendu de l'implémentation du Pizzas mario avec TypeScript.
+Implémentation du Pizzas mario avec TypeScript.
 
 ## Sujet
 
